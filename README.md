@@ -1,6 +1,6 @@
 # Crystals Collector Game: GET THEM INFINITY STONES!
 
-[Click here to play the game.]https://lerodcalanoc.github.io/unit-4-game/
+[Click here to play the game.](https://lerodcalanoc.github.io/unit-4-game/)
 
 **HOW TO PLAY:**
 

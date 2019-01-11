@@ -1,5 +1,7 @@
 # Crystals Collector Game: GET THEM INFINITY STONES!
 
+[Click here to play the game.]https://lerodcalanoc.github.io/unit-4-game/
+
 **HOW TO PLAY:**
 
 * There are four infinity stones displayed as buttons on the page.

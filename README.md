@@ -15,3 +15,15 @@
 
 	BACKGROUND IMAGE – Google.com
 	 INFINITY STONES – Google.com
+	 
+**TECHNOLOGIES USED:**
+
+HTML
+
+CSS
+
+Javascript
+
+jQUERY
+
+Bootstrap

@@ -18,12 +18,12 @@
 	 
 **TECHNOLOGIES USED:**
 
-HTML
+	HTML
 
-CSS
+	CSS
 
-Javascript
+	Javascript
 
-jQUERY
+	jQUERY
 
-Bootstrap
+	Bootstrap

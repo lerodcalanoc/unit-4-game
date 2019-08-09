@@ -2,6 +2,8 @@
 
 [Click here to play the game.](https://lerodcalanoc.github.io/unit-4-game/)
 
+![](https://i.redd.it/d732d8wwwdv01.png)
+
 **HOW TO PLAY:**
 
 * There are four infinity stones displayed as buttons on the page.

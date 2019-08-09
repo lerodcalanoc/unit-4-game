@@ -2,7 +2,7 @@
 
 [Click here to play the game.](https://lerodcalanoc.github.io/unit-4-game/)
 
-![](https://i.redd.it/d732d8wwwdv01.png)
+![](https://steamuserimages-a.akamaihd.net/ugc/834765253923432533/E6D3E8C95A38E2224FA3F11B96637479E80AFEB0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 **HOW TO PLAY:**
 
